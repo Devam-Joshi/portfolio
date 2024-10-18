@@ -32,9 +32,8 @@ function Home() {
         <h3>
           And I'm a <span className="multiple-text"></span>
         </h3>
-        <p>
-          Currently enrolled in a B.Tech. in Computer Enginerring programme at
-          Silveroak University in Ahemdabad, Gujarat. Coding the backbone of innovation, one function at a time
+        <p className="multiple-text">
+        Currently enrolled in a B.Tech. in Computer Engineering program at Silveroak University in Ahmedabad, Gujarat. With 1.5 years of experience working at Solutions1313, coding the backbone of innovation, one function at a time, using skills in backend development with Laravel and Node.js, and expertise in graphic design.
         </p>
         <div className="social-media">
           <a href="https://www.linkedin.com/in/devam-joshi-9223b21ab/" target="_blank">

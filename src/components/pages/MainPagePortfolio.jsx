@@ -14,7 +14,7 @@ const MainPagePortfolio = () => {
       <Home />
       <AboutMe />
       <Skills />
-      {/* <MyProject /> */}
+      <MyProject />
       {/* <AchievedCertification /> */}
       <Footer />
     </>

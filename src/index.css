@@ -126,6 +126,10 @@ span {
   font-size: 1.6rem;
 }
 
+.multiple-text{
+  text-align: left;
+}
+
 .counter {
   margin-top: 5px;
 }
@@ -308,8 +312,7 @@ span {
 
 .portfolio-box:hover .portfolio-layer {
   transform: translateY(0);
-
-
+  color: black;
 }
 
 .portfolio-layer h4 {
