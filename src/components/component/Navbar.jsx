@@ -77,13 +77,13 @@ const Navbar = () => {
         >
           Skills
         </a>
-        {/* <a
+        <a
           href="#project"
           className={`nav-link ${activeSection === "project" ? "active" : ""}`}
           onClick={handleLinkClick}
         >
           Project
-        </a> */}
+        </a>
         {/* Add more navbar links for each section */}
       </nav>
     </header>
